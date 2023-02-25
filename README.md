@@ -17,8 +17,8 @@ desktop screenshot (./screenshot/results-summary-component-main-desktop-screensh
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/DanielaMichelle/Result-summary-component-main
+- Live Site URL: https://danielamichelle.github.io/Result-summary-component-main/
 
 
 ### Built with
